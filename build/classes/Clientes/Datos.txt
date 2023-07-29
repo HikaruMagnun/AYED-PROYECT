@@ -1,0 +1,5 @@
+Cliente{Nombre=Victor, Apellido=Araujo, Dni=77044867}
+Cliente{Nombre=Anibal, Apellido=Gutierrez, Dni=40001465}
+Cliente{Nombre=Martha, Apellido=Luna, Dni=9848750}
+Cliente{Nombre=adsada, Apellido=Alvarez, Dni=88055978}
+Cliente{Nombre=Carlos, Apellido=Diaz, Dni=123456789}
